@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982650047671",
+    "project_id": "com-zavedapok-ysedo",
+    "storage_bucket": "com-zavedapok-ysedo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982650047671:android:7340c8ab915903db235132",
+        "android_client_info": {
+          "package_name": "com.zavedapok.ysedo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982650047671-km411dljm60fdj21197svjv38i7ap6cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7r796GDFjUmQWaWzviLpXxWjazINo5ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982650047671-km411dljm60fdj21197svjv38i7ap6cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

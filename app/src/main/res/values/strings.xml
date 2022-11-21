@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Онлайн Займы Срочно</string>
+    <string name="facebook_app_id">1266113004242341</string>
+
+    <string name="refresh_page">Обновить</string>
+    <string name="no_internet_connection">Нет соединения с интернетом</string>
+
+
+    <string name="text_accept_policy">I have read and agree <u> Terms of Service &amp; Privacy Policy</u></string>
+    <string name="don_wait">Мы не ждем действия, мы создаем действие. Время бесценно, и мы делаем все возможное, чтобы предоставить вам быструю и надежную связь с самыми уважаемыми зайомшикам в отрасли.</string>
+    <string name="how_it_works">Как это работает?</string>
+    <string name="submit_a_request">Отправить запрос</string>
+    <string name="check_offer">Проверить предложения</string>
+    <string name="recive_money">Получите ваши деньги</string>
+    <string name="deal">Если предложение соответствует вашим потребностям и желаниям и вы согласны со всеми условиями - просто подписывайте сделку и приготовьтесь к оплате!</string>
+    <string name="funds">После того, как вы отправите запрос, получите предложение и подпишете его в электронном виде, вы сможете мгновенно получить средства на свой банковский счет!</string>
+    <string name="all_paperwork">Все документы пропали! Весь процесс полностью онлайн. Просто введите несколько сведений о себе и нажмите «Начать»!</string>
+    <string name="faq">Часто задаваемые вопросы</string>
+    <string name="impact">Что такое займ?</string>
+    <string name="impact1">Займы без отказа по одному документу</string>
+    <string name="loan_renewal">займ — это среднесрочный займ с достойной стоимостью финансирования, который погашается эквивалентными регулярными платежами и обычно ограничен двумя годами.</string>
+    <string name="loan_renewal2">Чтобы взять деньги сразу у нас вам потребуется только один документ – ваш паспорт! ИНН, свидетельства, трудовые книжки и справки о доходах нам не нужны. Поэтому взять займ может любой, не важно, работаете ли вы официально, или вы получаете «серую» зарплату – больше это не препятствие для получения займа.</string>
+    <string name="impact3">Займы на карту без процентов</string>
+    <string name="loan_renewal3">Никакой переплаты! Мы предлагаем новым клиентам оформить свой первый займ на льготных условиях: 0% переплаты. Да, вы действительно можете воспользоваться деньгами совершенно бесплатно!
+Чтобы воспользоваться специальным предложением нужно заполнить анкету, указать все данные без ошибок и отправить ее на рассмотрение: проверка по вашей заявке - автоматическая.</string>
+    <string name="impact4">Требования к потенциальным заёмщикам минимальны.</string>
+    <string name="loan_renewal4">Вы можете взять займы онлайн любым способом:
+\n— На банковскую карту.
+\n— На банковский счёт.
+\n— На онлайн-кошелёк.</string>
+    <string name="impact5">Информация о полной стоимости займа и пример расчета:</string>
+    <string name="loan_renewal5">Минимальная процентная ставка - 10% в год.
+Максимальная годовая процентная ставка – 365 % годовых.
+Проценты и пеня, начисленные по Договору потребительского займа, не могут превышать двукратный размер суммы займа.</string>
+    <string name="get_loan">Получите\nзайм до 50000 руб</string>
+    <string name="trylater">Данные подготавливается.\nПопробуйте позже</string>
+    <!--    <string name="impact6">For what reason does one have to contact a loan specialist straightforwardly?</string>-->
+<!--    <string name="loan_renewal6">JacintoFinance works to empower clients to get to trustworthy moneylenders and improve loan choices. We don\'t have data concerning specific loan products or their terms. Nor do we settle on any credit choice. On the off chance that the borrowers who utilized our administration have issues concerning their loan agreements, they should contact their loan specialists straightforwardly.</string>-->
+<!--    <string name="impact7">What is the annual percentage rate (APR)?</string>-->
+<!--    <string name="loan_renewal7">The Expenses and APR financing costs you will be charged are given to you in a composed archive by the moneylender after you present a loan solicitation; however, before you are mentioned to consent to a loan arrangement carefully.</string>-->
+<!--    <string name="impact8">For what reason does one have to renew a credit?</string>-->
+<!--    <string name="loan_renewal8">Sometimes, borrowers think that it is difficult to reimburse their credits on schedule because of unforeseeable conditions. In these cases, most moneylenders permit clients to renew their loans for extra premium added to the aggregate. This alternative can be costly, so we suggest reaching loan specialists to avoid additional installments and punishments before these conditions occur.</string>-->
+<!--    <string name="impact9">What happens when one can\'t pay off on schedule or by any means?</string>-->
+<!--    <string name="loan_renewal9">The instances of defaulted installment terms are clarified in each credit arrangement and proper before these conditions occur punishments, extra charges, assortment rehearses, and different activities related to wrongdoing. One should really take a look at these terms prior to consenting to arrangement in any case. Every one of the loan providers in our organization sticks to the accepted procedures in the business, observes government and state laws, and responsible loan rehearses.</string>-->
+<!--    <string name="impact10">What number of loans would one be able to take at a time?</string>-->
+<!--    <string name="loan_renewal10">The number of financial items taken simultaneously, just as the laws of each state dictate the “cooling time” terms. Also, every loan specialist claims all authority to decide the limit of synchronous or potentially ensuing credit arrangements inside the constraints of relevant laws.</string>-->
+
+
+</resources>
